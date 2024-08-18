@@ -7,7 +7,7 @@ About me
 
 - 🔭 I’m currently working on [Deep Model](Link)
 
-- 🌱 I’m currently **exploring the depths of Artificial Intelligence. Deep Learning, NLP, GenAI**
+- 🌱 I’m currently **exploring the depths of Artificial Intelligence. Deep Learning, NLP, GenAI.**
 
 - 💬 Ask me about **Machine Learning ,Deep Learning , TensorFlow etc**
 - 🧐 I’m looking to **collaborate and work on projects in AI and machine learning with like-minded individuals.**
