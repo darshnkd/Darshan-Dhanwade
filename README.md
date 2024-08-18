@@ -7,9 +7,11 @@ About me
 
 - 🔭 I’m currently working on [Deep Model](Link)
 
-- 🌱 I’m currently **exploring the depths of Artificial. Eager to contribute to cutting-edge projects and collaborate with like-minded individuals.**
+- 🌱 I’m currently **exploring the depths of Artificial. Deep Learning, NLP, GenAI**
 
 - 💬 Ask me about **Machine Learning ,Deep Learning , TensorFlow etc**
+- 🧐 I’m looking to **collaborate and work on projects in AI and machine learning with like-minded individuals.**
+
 
 - 📫 How to reach me **darshankd.connect@gmail.com**
 
